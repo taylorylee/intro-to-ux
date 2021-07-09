@@ -1,1 +1,1 @@
-# introtoux-workshop
+# Intro to UX Workshop 
