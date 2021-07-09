@@ -6,7 +6,9 @@ How does a user interact with a company, its web presence, service, communicatio
 
 Please be sure to create a Figma account before the workshop. No prior experience is required! 
 
-## Recordings of this workshop
+## Recordings 
+
+TBD.
 
 ## Credits
 
